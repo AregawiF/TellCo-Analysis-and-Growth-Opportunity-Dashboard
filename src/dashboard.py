@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 
-# Load your data
 @st.cache_data
 def load_data():
     # Replace with your dataset path
